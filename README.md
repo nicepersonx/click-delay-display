@@ -5,6 +5,7 @@ A simple script that calculates the time between mouse clicks, it also works on 
 ```
 -time installed
 -win32api installed
+-run main.py
 ```
 
 # Changing the key:
